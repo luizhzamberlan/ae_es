@@ -1,0 +1,30 @@
+xpath search bar
+//*[@id="side"]/div[1]/div/div[2]/div[2]/div/div[1]/p
+
+xpath
+group box at the search bar
+//*[@id="pane-side"]/div[1]/div/div/div[2]/div/div
+
+xpath group tittle
+//*[@id="pane-side"]/div[1]/div/div/div[2]/div/div/div/div[2]/div[1]/div[1]/span/span
+
+try
+"//span[@title='"+bot teste+"']"
+
+xpath text bar in chat
+//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[1]/p
+class = selectable-text copyable-text iq0m558w g0rxnol2
+
+button send message
+//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button
+
+xpath last messange
+//*[@id="main"]/div[3]/div/div[2]/div[2]/div[27]/div/div/div[1]/div[2]
+
+CLASS = _1BOF7 _2AOIt
+        _1BOF7 _2AOIt
+
+text in class 
+//*[@id="main"]/div[3]/div/div[2]/div[3]/div[27]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/span[1]/span
+//*[@id="main   "]/div[3]/div/div[2]/div[2]/div[27]/div/div/div[1]/div[2]/div[1]/div/div[2]/div/span[1]/span
+//span[@class='_11JPr selectable-text copyable-text']
