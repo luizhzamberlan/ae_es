@@ -1,0 +1,194 @@
+55 systems
+part number (module)
+
+fault code
+
+system position
+637 x 211
+text fault position
+867 x 709
+
+mouse double click
+
+if acs press tab
+	if '3041326'
+		press tab
+			type fault code
+
+elif ahs press button down
+	if ''
+		press tab
+			type fault code
+
+tab x 2
+press space
+mouse position
+mouse click
+hotkey press ctrl + A
+hotkey press ctrl + C
+####################
+código de falha = clipboard.past()
+clipboard.copy("")
+
+
+acs
+	1785570
+
+	1799955
+
+	1849869
+
+	1849871
+
+	1878338
+
+	1888382
+
+	1902759
+
+	1906040
+
+	2010059
+
+	2020682
+
+	2054675
+
+	2083206
+
+	2083814
+
+	2110665
+
+	2294321
+
+	2324708
+
+	2392626
+
+	2569763
+
+	2582161
+
+	2899938
+
+	2899939
+
+	2924832
+
+	2949598
+
+	2949603
+
+	2949630
+
+	3041326
+ahs
+	1444640
+
+	1501010
+
+	1512838
+
+	1544847
+
+	1544849
+
+	1545298
+
+	1722532
+
+	1724823
+
+	1724824
+
+	1728267
+
+	1728268
+
+	1768751
+
+	1851021
+
+	1851022
+
+	1857080
+
+	2160812
+
+	2197277
+
+	2197577
+
+	2288681
+
+	2488908
+
+	2607360
+
+	2607361
+
+	2640293
+
+	2640298
+
+	2724764
+
+	2735536
+
+	3034223
+
+	3034225
+alm
+aps
+aus
+autonomous vehicle system
+awd
+axi
+bcs
+bdc
+bms
+bwe
+bws
+ccc
+ccs
+cmd
+cms
+coo
+css
+cts
+cui
+das
+dcc
+dcs
+dis
+eacs
+eletric vehicle control system
+eec
+ehs
+ems
+equ
+flc
+fsc
+fss
+gms
+hlc
+icl
+inl
+las
+ldw
+mbs
+mgs
+pbc
+res
+rtc
+rti
+sms
+src
+srr
+tcc
+tco
+tpm
+tsa
+tss
+vis
