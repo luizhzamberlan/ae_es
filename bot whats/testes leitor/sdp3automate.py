@@ -5,15 +5,7 @@ from time import sleep
 
 def pesquisa_falha(system, module_number, fault_code):
 
-    #DataBase Connect
-    db = mysql.connector.connect(
-        host = "localhost",
-        user = "user",
-        password = "senha")
-
-    #lista para verificar se a falha pertence ao modulo e se o modulo pertence ao sistema
     
-
         
     pyautogui.hotkey('alt', 'tab')
     pyautogui.moveTo(637, 211)
